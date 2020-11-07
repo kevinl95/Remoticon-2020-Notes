@@ -1,5 +1,7 @@
 # Private Edge-Based Voice AI for Everything 
-Alfred Gonzales
+Alfred Gonzales Alfred.gonzalez@matrixlabs.ai
+Github: https://github.com/Alfred-AdMobilize
+https://github.com/matrix-io
 
 Is using a very interesting voice application development board https://www.matrix.one/products/voice
 
@@ -19,7 +21,7 @@ Demoer confirmed that the device has multiple microphones, but this demo involve
 
 Support for JavaScript, Python, Ruby, and Go
 
-The chip onboard is actually an FPGA which is interesting. Says that you can have direct control of the FPGA if you don't want to use their high-level libraries.
+The chip onboard is actually an FPGA (Xilinx Spartan 6) which is interesting. Says that you can have direct control of the FPGA if you don't want to use their high-level libraries.
 
 Two versions- an RPi version or an ESP32 version
 
