@@ -1,5 +1,5 @@
 # IC Reverse Engineering On a Shoestring 
-Peter Bosch
+Peter Bosch  https://twitter.com/peterbjornx
 
 Reverse engineering Pentium II (350nm process chip) bytecode
 
